@@ -3,10 +3,6 @@
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 🐍 Começando minha trajetória tech com python :)
  
- <div>
-  <a href="https://github.com/cmilaprim">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmilaprim&layout=compact&langs_count=16&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mila-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
