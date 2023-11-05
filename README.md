@@ -1,16 +1,24 @@
-### Hi there 👋
+## Oiee! Eu sou a Camila!! 👋
 
-<!--
-**cmilaprim/cmilaprim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
+- 🐍 Começando minha trajetória tech com python :)
+ 
+ <div>
+  <a href="https://github.com/cmilaprim">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmilaprim&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mila-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="right" alt="Rafa-yoda" width="200" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
+          
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/cmilaprim" target="_blank"><img align="center" height="40" width="40"src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" target="_blank"></a>
+  <a href = "mailto:cmilaprim@gmail.com"><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GCP-Dark.svg"target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cmilaprim/" target="_blank"><img align="center" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" target="_blank"></a> 
+  
+</div>
