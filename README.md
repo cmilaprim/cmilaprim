@@ -1,4 +1,4 @@
-## Oiee! Eu sou a Camila!! 👋
+## Oiee, Eu sou a Camila!! 👋
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 🐍 Começando minha trajetória tech com python :)
