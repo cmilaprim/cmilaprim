@@ -1,7 +1,7 @@
 ## Oiee, Eu sou a Camila!! 👋
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
-- 🐍 Começando minha trajetória tech com python :)
+- Iniciando minha trajetória como dev front end com html e css:)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Mila-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
