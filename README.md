@@ -5,7 +5,6 @@
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
- 
 <div style="display: inline_block" align="center" ><br>
  
   
