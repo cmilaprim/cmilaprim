@@ -17,7 +17,7 @@
 
 <br>
 
-<div align="left" >
+<div align="center" >
   <a href="https://github.com/Cmilaprim/Cmilaprim/">
   <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=codeSTACKr&border_radius=1em" />
   <img width="270em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
