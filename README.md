@@ -19,7 +19,7 @@
 <div align="center" >
   <br>
   <a href="https://github.com/Cmilaprim/Cmilaprim/">
-  <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=radical&border_radius=1em" />
+  <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=radical&border_radius=1em" /><br>
   <img width="270em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=radical&border_radius=1.5em" />
     
 </div> 
