@@ -6,7 +6,7 @@
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
 
 
-<div style="display: inline_block" align="center" >
+<div style="display: inline_block" align="left" >
   <br>
   <img align="center" alt="Mila-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
   <img align="center" alt="Mila-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
@@ -17,7 +17,7 @@
 
 <br>
 
-<div align="center" >
+<div align="left" >
   <a href="https://github.com/Cmilaprim/Cmilaprim/">
   <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=codeSTACKr&border_radius=1em" />
   <img width="270em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
