@@ -1,6 +1,6 @@
 
 ## Oiee, Eu sou a Camila!! 👋
-  <img align="right" alt="yoda" width="300" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
+  <img align="right" alt="yoda" width="270" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
