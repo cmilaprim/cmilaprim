@@ -1,6 +1,6 @@
 
 ## Oiee, Eu sou a Camila!! 👋
-  <img align="right" alt="yoda" width="400" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
+  <img align="right" alt="yoda" width="300" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
@@ -11,11 +11,10 @@
   <img align="center" alt="Mila-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Mila-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"> 
   <img align="center" alt="Mila-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<br>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center" >
   <a href="https://github.com/Cmilaprim/Cmilaprim/">
@@ -24,6 +23,7 @@
     
 </div> 
   
+
 
 
 
