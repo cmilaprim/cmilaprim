@@ -3,6 +3,7 @@
 <img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif">
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
+  
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
 
 <div style="display: inline_block" align="center" >
