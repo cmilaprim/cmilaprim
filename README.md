@@ -7,7 +7,7 @@
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
 
-<div style="display: inline_block" align="left" >
+<div style="display: inline_block" align="center" >
   <br>
   <img align="center" alt="Mila-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />      
   <img align="center" alt="Mila-Html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
@@ -24,8 +24,6 @@
   <img width="270em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
     
 </div> 
-
-<br>
 
 <div  align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
