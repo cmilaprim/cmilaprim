@@ -1,6 +1,6 @@
 
 ## Oiee, Eu sou a Camila!! 👋
-  <img align="right" alt="yoda" width="270" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
+  <img align="right" alt="yoda" width="290" src="https://pa1.aminoapps.com/6454/d70fe9741bdcd2bb96c9362818b1e190969d8908_hq.gif">
 
 - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
 - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira como desenvolvedora front-end. :)
@@ -18,8 +18,8 @@
 
 <div align="center" >
   <a href="https://github.com/Cmilaprim/Cmilaprim/">
-  <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=codeSTACKr&border_radius=1em" />
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
+  <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=codeSTACKr&border_radius=1em" />
+  <img width="270em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=codeSTACKr&border_radius=1.7em" />
     
 </div> 
   
