@@ -18,15 +18,17 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-cmilaprim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmilaprim/)](https://www.linkedin.com/in/cmilaprim/)
-[![Gmail Badge](https://img.shields.io/badge/-cmilaprim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmilaprim@gmail.com)](mailto:cmilaprim@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-cmilaprim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmilaprim/)](https://www.linkedin.com/in/cmilaprim/)
+![Instagram](https://img.shields.io/badge/cmilaprim-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cmilaprim)
+[![Gmail Badge](https://img.shields.io/badge/-cmilaprim@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmilaprim@gmail.com)](mailto:cmilaprim@gmail.com)
+![twitch](https://img.shields.io/badge/cmilaprim-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 
 <div align="center" >
   <br>
   <a href="https://github.com/Cmilaprim/Cmilaprim/">
-    <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=dark&border_radius=1em" />
-    <img width="290em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=dark&border_radius=1.5em" />
+    <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=synthwave&border_radius=1.5em" />
+    <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmilaprim&layout=compact&theme=synthwave&border_radius=1em" />
   
 
 
