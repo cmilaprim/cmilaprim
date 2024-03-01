@@ -14,15 +14,13 @@
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-cmilaprim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmilaprim/)](https://www.linkedin.com/in/cmilaprim/)
-![Instagram](https://img.shields.io/badge/cmilaprim-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cmilaprim)
-[![Gmail Badge](https://img.shields.io/badge/-cmilaprim@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmilaprim@gmail.com)](mailto:cmilaprim@gmail.com)
-![twitch](https://img.shields.io/badge/cmilaprim-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmilaprim/)](https://www.linkedin.com/in/cmilaprim/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cmilaprim@gmail.com)](mailto:cmilaprim@gmail.com)
+![Instagram](https://img.shields.io/badge/cmilaprim-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/cmilaprim)
 
 <div align="center" >
   <br>
