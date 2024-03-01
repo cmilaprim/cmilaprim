@@ -20,7 +20,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-cmilaprim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmilaprim/)](https://www.linkedin.com/in/cmilaprim/)
 [![Gmail Badge](https://img.shields.io/badge/-cmilaprim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmilaprim@gmail.com)](mailto:cmilaprim@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/cmilaprim)
+
 
 <div align="center" >
   <br>
