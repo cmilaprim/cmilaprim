@@ -1,10 +1,12 @@
 
 ## Oiee, Eu sou a Camila!! 👋
-  <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
-
+  <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+  
   - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
   - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira de Cientista de Dados. :)
     
+<br><br>
+
 
 ## Minhas Skills
 
