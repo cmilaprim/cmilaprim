@@ -4,7 +4,7 @@
   
   - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
   
-  - 📚 Compartilhando um pouco da minha jornada acadêmica e dos primeiros passos na minha carreira de Cientista de Dados. :)
+  - 📚 Compartilhando um pouco da minha jornada acadêmica. :)
 
 <br><br>
 <br>
