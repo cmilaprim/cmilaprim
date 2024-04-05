@@ -4,14 +4,14 @@
   
   - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
   
-  - 📚 Compartilhando um pouco da minha jornada acadêmica. :)
+  - 📚 Compartilhando um pouco da minha jornada acadêmica e dos meus primeiros passos como desenvolvedora back-end. :)
 
 <br><br>
 <br>
 
 
 ## Minhas Skills
-
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Onde me encontrar
