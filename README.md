@@ -22,8 +22,8 @@
 
 <div align="center" >
   <br>
-  <a href="https://github.com/Cmilaprim/Cmilaprim/">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api?username=Cmilaprim&show_icons=true&theme=synthwave&border_radius=1.5em" />
+  <a href="https://github.com/cmilaprim/cmilaprim/">
+    <img width="300em" src="https://github-readme-stats.vercel.app/api?username=cmilaprim&show_icons=true&theme=synthwave&border_radius=1.5em" />
     <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmilaprim&layout=compact&theme=synthwave&border_radius=1em" />
   
 
