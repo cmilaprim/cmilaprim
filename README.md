@@ -20,12 +20,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cmilaprim@gmail.com)](mailto:cmilaprim@gmail.com)
 ![Instagram](https://img.shields.io/badge/cmilaprim-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/cmilaprim)
 
-<div align="center" >
-  <br>
-  <a href="https://github.com/cmilaprim/cmilaprim/">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api?username=cmilaprim&show_icons=true&theme=synthwave&border_radius=1.5em" />
-    <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmilaprim&layout=compact&theme=synthwave&border_radius=1em" />
-  
+
 
 
 
