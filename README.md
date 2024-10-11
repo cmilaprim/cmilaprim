@@ -1,18 +1,18 @@
 
 ## Oiee, Eu sou a Camila!! 👋
-  <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
   
   - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
   
-  - 📚 Compartilhando um pouco da minha jornada acadêmica e dos meus primeiros passos como desenvolvedora back-end. :)
-
-<br><br>
+  - 📚 Compartilhando um pouco da minha jornada acadêmica e dos meus primeiros passos como desenvolvedora. :)
 <br>
 
 
 ## Minhas Skills
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![NODE](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ## Onde me encontrar
 
