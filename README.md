@@ -2,18 +2,20 @@
 ## Oiee, Eu sou a Camila!! 👋
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
   
-  - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina.
-  
-  - 📚 Compartilhando um pouco da minha jornada acadêmica e dos meus primeiros passos como desenvolvedora. :)
+  - 🎓 Graduanda de Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC).
+  - 📊 Explorando o mundo da análise de dados e desenvolvimento de software.
+  - 🛠️ Trabalhando com Python, SQL, Power BI e ETL ;)
 <br>
 
 
 ## SKILLS
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![NODE](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  
 ## REDES
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmilaprim/)](https://www.linkedin.com/in/cmilaprim/)
