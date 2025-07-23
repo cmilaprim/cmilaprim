@@ -1,7 +1,4 @@
-
-## Oiee, Eu sou a Camila!! 👋
-
-
+## Hello, I'm Camila :) !! 👋
 
 
 
